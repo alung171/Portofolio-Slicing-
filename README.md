@@ -2,7 +2,7 @@
 
 Website portfolio pribadi yang dibuat untuk memperkenalkan diri, menampilkan skill, project, dan informasi kontak. Website ini dibuat menggunakan **HTML, CSS, dan JavaScript**.
 
-## 📌 Tentang Project
+## Tentang Project
 
 Website ini merupakan portfolio sederhana milik Fahrul yang dibuat sebagai media untuk belajar dan menerapkan dasar-dasar pengembangan website.
 
@@ -14,13 +14,13 @@ Website memiliki beberapa bagian utama:
 * **Project** — Menampilkan beberapa contoh project website.
 * **Kontak** — Menampilkan informasi untuk menghubungi pemilik portfolio.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **HTML5** — Membuat struktur halaman website.
 * **CSS3** — Mengatur tampilan, layout, warna, responsive design, dan mode terang.
 * **JavaScript** — Menambahkan fitur interaktif pada website.
 
-## ✨ Fitur
+## Fitur
 
 ### 1. Responsive Design
 
@@ -48,7 +48,7 @@ Navigasi antarbagian website menggunakan smooth scrolling sehingga perpindahan h
 
 Tombol kembali ke atas akan muncul ketika pengguna melakukan scroll lebih dari 400px. Ketika diklik, halaman akan kembali ke bagian atas dengan animasi smooth scroll.
 
-## 📂 Struktur Project
+## Struktur Project
 
 ```text
 portfolio-fahrul/
@@ -73,7 +73,7 @@ Berisi fungsi interaktif seperti mobile menu, pergantian tema, dan tombol kembal
 **File gambar**
 Digunakan sebagai foto profil pada bagian Home.
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Download atau clone repository ini.
 2. Pastikan semua file berada dalam satu folder.
@@ -82,7 +82,7 @@ Digunakan sebagai foto profil pada bagian Home.
 
 Atau jika menggunakan **Visual Studio Code**, project dapat dijalankan menggunakan extension **Live Server**.
 
-## 📱 Bagian Project
+## Bagian Project
 
 Portfolio ini menampilkan tiga contoh project:
 
@@ -104,9 +104,23 @@ Portfolio ini menampilkan tiga contoh project:
    * CSS
    * JavaScript
 
+   ## screenshot
+
+   **Dekstop**
+
+   ![Dekstop](screenshot (230).png)
+
+   **ipad**
+
+   ![ipad](screenshot (229).png)
+
+   **Mobile**
+
+   ![Mobile](screenshot (228).png)
+
 Informasi project tersebut ditampilkan pada bagian Project di halaman portfolio.
 
-## 👨‍💻 Author
+## Author
 
 **Fahrul**
 
@@ -118,6 +132,6 @@ Mahasiswa yang sedang mempelajari pengembangan website menggunakan HTML, CSS, da
 * GitHub: [alung171](https://github.com/alung171)
 * Email: [252410103004@mail.unej.ac.id](mailto:252410103004@mail.unej.ac.id)
 
-## 📄 License
+## License
 
 Project ini dibuat untuk keperluan pembelajaran dan portfolio pribadi.
