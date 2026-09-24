@@ -108,15 +108,15 @@ Portfolio ini menampilkan tiga contoh project:
 
    **Dekstop**
 
-   ![Dekstop](Screenshot (230).png)
+   ![Dekstop](Screenshot%(230).png)
 
    **ipad**
 
-   ![ipad](Screenshot (229).png)
+   ![ipad](Screenshot%(229).png)
 
    **Mobile**
 
-   ![Mobile](Screenshot (228).png)
+   ![Mobile](Screenshot%(228).png)
 
 Informasi project tersebut ditampilkan pada bagian Project di halaman portfolio.
 
