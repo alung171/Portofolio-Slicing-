@@ -104,19 +104,20 @@ Portfolio ini menampilkan tiga contoh project:
    * CSS
    * JavaScript
 
-   ## screenshot
 
-   **Dekstop**
+## screenshot
 
-   ![Dekstop](/Screenshot%(230).png)
+### Desktop
 
-   **ipad**
+![Desktop](Screenshot%20%28230%29.png)
 
-   ![ipad](/Screenshot%(229).png)
+### ipad
 
-   **Mobile**
+![iPad](Screenshot%20%28229%29.png)
 
-   ![Mobile](/Screenshot%(228).png)
+### mobile
+
+![Mobile](Screenshot%20%28228%29.png)
 
 Informasi project tersebut ditampilkan pada bagian Project di halaman portfolio.
 
